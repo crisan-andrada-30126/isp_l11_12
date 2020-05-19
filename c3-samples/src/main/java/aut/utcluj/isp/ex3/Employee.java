@@ -1,4 +1,4 @@
-package aut.utcluj.isp.ex3;
+package java.aut.utcluj.isp.ex3;
 
 /**
  * @author stefan
