@@ -1,4 +1,4 @@
-package aut.utcluj.isp.ex2;
+package java.aut.utcluj.isp.ex2;
 
 import org.junit.Test;
 
