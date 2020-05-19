@@ -6,6 +6,7 @@ package aut.utcluj.isp.ex1;
 public class Person {
     private String firstName;
     private String lastName;
+   // htjyul;;kj,hmgfdsdfghjkl/..,bvcx
 
     public Person(String firstName) {
         this.lastName = "";
@@ -23,4 +24,7 @@ public class Person {
     public String getLastName() {
         return lastName;
     }
+
+
+
 }
